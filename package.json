@@ -1,0 +1,18 @@
+{
+  "name": "di-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Evgeny Zislis <evgeny.zislis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/debug": "^4.1.5",
+    "@types/sinon": "^9.0.0",
+    "debug": "^4.1.1",
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.1"
+  }
+}
